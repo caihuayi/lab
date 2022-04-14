@@ -1,0 +1,6 @@
+[submodule "AccessNoxim_v0.3"]
+	path = AccessNoxim_v0.3
+	url = https://github.com/caihuayi/AccessNoxim_v0.3
+[submodule "tgff-3.6"]
+	path = tgff-3.6
+	url = https://github.com/caihuayi/tgff
